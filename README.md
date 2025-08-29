@@ -1,4 +1,5 @@
-# CapstoneProject_AgungRohy
+# Mendeteksi Berita Hoaks Menggunakan AI IBM Granite By AgungRohy
+
 Mendeteksi Berita Hoaks Menggunakan AI IBM Granite
 📖 Ringkasan Proyek
 Proyek ini adalah sebuah sistem cerdas untuk mengklasifikasikan artikel berita sebagai REAL atau FAKE secara otomatis. Daripada melatih model machine learning dari nol, proyek ini memanfaatkan kemampuan zero-shot learning dari IBM Granite, sebuah Large Language Model (LLM), untuk menganalisis dan meringkas teks berita dengan akurasi tinggi melalui prompt engineering.
